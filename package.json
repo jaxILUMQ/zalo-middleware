@@ -1,0 +1,22 @@
+{
+    "name": "zalo-middleware",
+    "version": "1.0.4",
+    "description": "Simple middleware Zalo User Access Token",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "zalo",
+        "zalo middleware",
+        "zalo nodejs",
+        "zalo-middleware"
+    ],
+    "author": "Nguyen Phan Hoa Phat",
+    "license": "MIT",
+    "dependencies": {
+        "axios": "^0.18.0",
+        "qs": "^6.5.2",
+        "uuid": "^3.3.2"
+    }
+}
