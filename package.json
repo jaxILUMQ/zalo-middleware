@@ -1,6 +1,6 @@
 {
     "name": "zalo-middleware",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "description": "Simple middleware Zalo User Access Token",
     "main": "index.js",
     "scripts": {
@@ -18,5 +18,10 @@
         "axios": "^0.18.0",
         "qs": "^6.5.2",
         "uuid": "^3.3.2"
+    },
+    "homepage": "https://github.com/jaxILUMQ/zalo-middleware",
+    "repository": {
+        "type": "github",
+        "url": "https://github.com/jaxILUMQ/zalo-middleware"
     }
 }

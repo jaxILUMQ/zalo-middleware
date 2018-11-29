@@ -5,7 +5,7 @@ Simple middleware Zalo User Access Token
 ### Installation
 
 ```sh
-$ npm install zalo-middleware
+npm install zalo-middleware
 ```
 
 ### Usage
